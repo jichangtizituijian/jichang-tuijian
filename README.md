@@ -233,7 +233,7 @@
 ### 奈云机场
 
 官网入口：[奈云机场官网](https://go2lk.pages.dev/dq27tj)  
-优惠码：11meigui（全场8折，长期有效）
+优惠码：`11meigui`（全场8折，长期有效）
 
 机场信息
 > 开业时间：2021 年  
@@ -258,7 +258,7 @@
 ### Cyberguard机场
 
 官网入口：[Cyberguard机场官网](https://go2lk.pages.dev/a64sw2)   
-优惠码：11meigui（全场75折，长期有效）
+优惠码：`11meigui`（全场75折，长期有效）
 
 机场信息
 > 开业时间：2020 年  
@@ -284,7 +284,7 @@
 ### 肥猫云机场
 
 官网入口：[肥猫云机场官网](https://go2lk.pages.dev/um2wxw)  
-优惠码：clashx.cc（全场9折，年付加强版除外）
+优惠码：`clashx.cc`（全场9折，年付加强版除外）
 
 机场信息
 > 开业时间：2021 年  
@@ -307,8 +307,8 @@
 
 ### 雪橇云机场
 
-官网入口：[雪橇云机场官网](https://go2lk.pages.dev/s9u7kg) 
-优惠码：11meigui（全场85折，长期有效）
+官网入口：[雪橇云机场官网](https://go2lk.pages.dev/s9u7kg)  
+优惠码：`11meigui`（全场85折，长期有效）
 
 机场信息
 > 开业时间：2022 年  
@@ -334,8 +334,8 @@
 
 ### 红杏云机场
 
-官网入口：[红杏云机场官网](https://go2lk.pages.dev/xmjwtx) 
-优惠码：clashx.cc（全场8折，长期有效）
+官网入口：[红杏云机场官网](https://go2lk.pages.dev/xmjwtx)  
+优惠码：`clashx.cc`（全场8折，长期有效）
 
 机场信息
 > 开业时间：2021 年  
@@ -363,7 +363,7 @@
 ### 大米机场
 
 官网入口：[大米机场官网](https://go2lk.pages.dev/kfhpxe)  
-优惠码：clashx.cc（全场9折，长期有效）
+优惠码：`clashx.cc`（全场9折，长期有效）
 
 机场信息
 > 开业时间：2020 年  
@@ -393,8 +393,8 @@
 
 ### 疾风云机场
 
-官网入口：[疾风云机场官网](https://go2lk.pages.dev/cwewxe)  
-优惠码：clashx.cc（全场年付7折，长期有效）
+官网入口：[疾风云机场官网](https://go2lk.pages.dev/cwewxe)   
+优惠码：`clashx.cc`（全场年付7折，长期有效）
 
 机场信息
 > 开业时间：2022 年  
@@ -417,8 +417,8 @@
 
 ### 蓝帆云机场
 
-官网入口：[蓝帆云机场官网](https://go2lk.pages.dev/6t7yf3)  
-优惠码：lanfan（年付7折优惠，长期有效）
+官网入口：[蓝帆云机场官网](https://go2lk.pages.dev/6t7yf3)   
+优惠码：`lanfan`（年付7折优惠，长期有效）
 
 机场信息
 > 开业时间：2021 年  
